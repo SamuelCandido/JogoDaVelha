@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/10 17:19:49.000.087,=C:\Users\samuel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/10 17:27:33.000.697,C:\Users\samuel\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\samuel\Desktop\jogoDaVelha\Unit1.pas</Transaction>
+    <Transaction>2024/12/10 17:27:33.000.697,C:\Users\samuel\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\samuel\Desktop\jogoDaVelha\Unit1.dfm</Transaction>
+    <Transaction>2024/12/10 17:27:35.000.909,C:\Users\samuel\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\samuel\Desktop\jogoDaVelha\Project1.dproj</Transaction>
+    <Transaction>2024/12/10 20:56:56.000.815,D:\Pomerplast\bkSamuelDev\Teste\jogoDaVelha\Unit1.pas=D:\Pomerplast\bkSamuelDev\Teste\jogoDaVelha\unJogoDaVelha.pas</Transaction>
+    <Transaction>2024/12/10 20:56:56.000.815,D:\Pomerplast\bkSamuelDev\Teste\jogoDaVelha\Unit1.dfm=D:\Pomerplast\bkSamuelDev\Teste\jogoDaVelha\unJogoDaVelha.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
