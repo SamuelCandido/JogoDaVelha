@@ -63,6 +63,6 @@ O jogo termina em empate quando:
 2. O executável gerado pode ser encontrado no diretório: 
 jogoDaVelha\Win32\Debug
    
-![Texto alternativo da imagem](Imagens\imagem.png)
+![Display Jogo](Imagens/imagem.png)
 
 
